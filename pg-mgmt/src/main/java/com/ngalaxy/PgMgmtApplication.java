@@ -10,6 +10,7 @@ public class PgMgmtApplication {
 		SpringApplication.run(PgMgmtApplication.class, args);
 		
 		System.out.println("We are in PG Management Application..");
+		System.out.println("We are in PG Management Application1..");
 	}
 
 }
